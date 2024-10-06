@@ -100,8 +100,8 @@ namespace hastaneoto
         public static void Kaydi_Hastayamailgonder(string randevurum, string randevuid, string hsatatc, string tarih, string saat, 
             string hastamail, string tahlilsonuc, string kisiselgorus)
         {
-            string fromMail = "sonmezsaglikozelhastane@gmail.com";
-            string fromPassword = "wxbq haps iroc jgct";
+            string fromMail = "ornek@gmail.com";  // Mail Adresiniz
+            string fromPassword = ""; // Gmail üzerinden "APP PASSWORD" alınması gerekiyor, normal hesaba giriş şifrenizi yazmayacaksınız buraya!!
 
             MailMessage message = new MailMessage();
             message.From = new MailAddress(fromMail);
