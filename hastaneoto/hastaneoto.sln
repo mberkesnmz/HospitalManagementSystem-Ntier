@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hastaneoto", "hastaneoto\hastaneoto.csproj", "{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SonmezhastaneSetup", "SonmezhastaneSetup\SonmezhastaneSetup.vdproj", "{304A7F30-DFE2-4682-BE1E-6B6DE85EA945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304A7F30-DFE2-4682-BE1E-6B6DE85EA945}.Debug|Any CPU.ActiveCfg = Debug
+		{304A7F30-DFE2-4682-BE1E-6B6DE85EA945}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8C46520-92D8-406E-9D51-735493D5E4AA}
+	EndGlobalSection
+EndGlobal

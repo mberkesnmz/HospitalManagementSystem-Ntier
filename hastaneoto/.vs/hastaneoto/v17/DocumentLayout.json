@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|c:\\users\\gaming\\desktop\\hastaneoto\\hastaneoto\\presentationlayer\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\presentationlayer\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|c:\\users\\gaming\\desktop\\hastaneoto\\hastaneoto\\presentationlayer\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\presentationlayer\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|c:\\users\\gaming\\desktop\\hastaneoto\\hastaneoto\\presentationlayer\\sekreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\presentationlayer\\sekreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\presentationlayer\\sekreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\presentationlayer\\sekreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\dbconn\\veritabanibaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\dbconn\\veritabanibaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1B34FC0-41ED-4DFD-9B45-D7486B557FD2}|hastaneoto\\hastaneoto.csproj|solutionrelative:hastaneoto\\presentationlayer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "doktor.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\doktor.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\PresentationLayer\\doktor.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\doktor.cs*",
+              "RelativeToolTip": "hastaneoto\\PresentationLayer\\doktor.cs*",
+              "ViewState": "AQIAAMEAAAAAAAAAAIAwwOEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:17:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doktor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\doktor.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\PresentationLayer\\doktor.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\doktor.cs [Design]*",
+              "RelativeToolTip": "hastaneoto\\PresentationLayer\\doktor.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:16:03.422Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sekreter.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\sekreter.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\PresentationLayer\\sekreter.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\sekreter.cs",
+              "RelativeToolTip": "hastaneoto\\PresentationLayer\\sekreter.cs",
+              "ViewState": "AQIAACUDAAAAAAAAAAAgwEoDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:29:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sekreter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\sekreter.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\PresentationLayer\\sekreter.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\sekreter.cs [Design]",
+              "RelativeToolTip": "hastaneoto\\PresentationLayer\\sekreter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:50.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\login.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\PresentationLayer\\login.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\PresentationLayer\\login.cs [Design]",
+              "RelativeToolTip": "hastaneoto\\PresentationLayer\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:07:19.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "veritabanibaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\dbConn\\veritabanibaglanti.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\dbConn\\veritabanibaglanti.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\dbConn\\veritabanibaglanti.cs",
+              "RelativeToolTip": "hastaneoto\\dbConn\\veritabanibaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:03:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\Business.cs",
+              "RelativeDocumentMoniker": "hastaneoto\\Business.cs",
+              "ToolTip": "C:\\Users\\Gaming\\Desktop\\hastaneoto\\hastaneoto\\Business.cs",
+              "RelativeToolTip": "hastaneoto\\Business.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAMwKQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:31:30.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
